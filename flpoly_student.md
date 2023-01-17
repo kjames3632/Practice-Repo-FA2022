@@ -1,24 +1,26 @@
-## Student Name (or name you would preferred to be called)
+Kathryn James
 
 ### Spring 2023
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Micro econ
 
-- Course 2
+- EOA
 
-- Course 3
+- intro to data science
 
-- Course 4
+- business law
+
+- stats
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- eating
 
-- Thing 2
+- music
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
 
